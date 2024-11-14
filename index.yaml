@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  hexa-upf:
+  - apiVersion: v1
+    appVersion: 1.0.0
+    created: "2024-11-14T10:56:28.911093365Z"
+    description: Chart to deploy Hexa-upf
+    digest: e86226dba8db04f6e3650e0d94e9ee8e9c79f98f99200ecbd8f1e9a573b094f9
+    name: hexa-upf
+    urls:
+    - https://github.com/coranlabs/HEXA_UPF_Helm_Charts/releases/download/hexa-upf-1.0.0/hexa-upf-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-11-14T10:56:28.911103484Z"
