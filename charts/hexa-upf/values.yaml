@@ -144,4 +144,4 @@ network:
     mac: true
 
 releaseName: hexa-core
-namespace: omec
+namespace: hexa
